@@ -34,6 +34,6 @@
 
 ## 👀 Contact
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vega-89135421a/)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vega-89135421a/)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!***
