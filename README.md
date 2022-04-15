@@ -32,4 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=400090)
 
+## 👀 Contact
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vega-89135421a/)
+
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!***
