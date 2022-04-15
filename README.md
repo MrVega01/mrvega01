@@ -1,32 +1,33 @@
-## Hello GitHub Fans 👋
+## Hello GitHub visitors 👋
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm José Ignacio Vega.
+### 🐸 I'm José Ignacio Vega.
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- A FullStack Javascript Web Programmer.
+- 🌱 Currently working remotely from Venezuela in Assett+, Canada.
+- 💬 Ask me about Javascript, React.js, Node.js and my projects.
+- ⭐ You may like [Node.js-API-REST-of-Notes](https://github.com/MrVega01/Node.js-API-REST-of-Notes), [react-app-giffy](https://github.com/MrVega01/react-app-giffy), or [Events-calendar](https://github.com/MrVega01/Events-calendar)
+- ⚡ Fun fact: Actually improving my backend skills. 😉
 
 ### 🛠 Tech Stack
 
 ## Sistem 💻
-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ## Web Frontend 🌐
 - ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ## Web Backend 🌐
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ## Tools 🔧
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
