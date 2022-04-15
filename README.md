@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 
 ## Sistem 💻
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ## Web Frontend 🌐
 - ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
