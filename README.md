@@ -8,21 +8,22 @@
 - 🌐 A FullStack Javascript Web Programmer.
 - 🌍 Currently working remotely from Venezuela in Assett+, Canada.
 - 💬 Ask me about Javascript, React.js, Node.js and my projects.
-- ⭐ You may like [Node.js-API-REST-of-Notes](https://github.com/MrVega01/Node.js-API-REST-of-Notes), [react-app-giffy](https://github.com/MrVega01/react-app-giffy), or [Events-calendar](https://github.com/MrVega01/Events-calendar)
-- ⚡ Fun fact: Actually improving my backend skills. 😉
+- ⭐ You may like [Node.js-API-REST-of-Notes](https://github.com/MrVega01/Node.js-API-REST-of-Notes), [react-app-giffy](https://github.com/MrVega01/react-app-giffy) or [Events-calendar](https://github.com/MrVega01/Events-calendar)
+- ⚡ Fun fact: Now improving my backend's skills. 😉
 
 ## 🛠 Tech Stack
 
 ### Sistem 💻
 - ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FFFFFF)
-### Web Frontend 🎨🖼
+### Web Frontend Develoment 🎨🖼
 - ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=3594cf)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-### Web Backend ⚙🔒
+### Web Backend Develoment ⚙🔒
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
