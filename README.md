@@ -15,7 +15,7 @@
 
 ### Sistem 💻
 - ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FFFFFF)
-- ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=00a1f1)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=00a1f1)
 ### Web Frontend Develoment 🎨🖼
 - ![React.js / React Native](https://img.shields.io/badge/-React.js/React%20Native-333333?style=flat&logo=React)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
