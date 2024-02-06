@@ -8,7 +8,7 @@
 - 🌐 A FullStack Web and Mobile Programmer/Developer.
 - 💼 Currently open to work!
 - 💬 Ask me about React.js, Node.js, React Native and my projects.
-- ⭐ You may like my [React Native App](https://github.com/MrVega01/mis-tesoros-app), [React eCommerce](https://github.com/MrVega01/react-ecommerce) or my [Events Calendar](https://github.com/MrVega01/Events-calendar)
+- ⭐ You may like my [React Native App](https://github.com/MrVega01/mis-tesoros-app), [Google Translate Clone](https://github.com/MrVega01/google-translate-clone) or my [Events Calendar](https://github.com/MrVega01/Events-calendar)
 - ⚡ Fact: Majoring in React. 😉
 
 ## 🛠 Tech Stack
