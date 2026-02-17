@@ -9,7 +9,7 @@
 - 💼 Currently open to work!
 - 💬 Ask me about React.js, Node.js, React Native and my projects.
 - ⭐ You may like my [React Native App](https://github.com/MrVega01/mis-tesoros-app), [Google Translate Clone](https://github.com/MrVega01/google-translate-clone) or my [Events Calendar](https://github.com/MrVega01/Events-calendar)
-- ⚡ Fact: Majoring in React. 😉
+- ⚡ Fact: Full Stack strong on Front End and Mobile. 😉
 
 ## 🛠 Tech Stack
 
@@ -26,14 +26,23 @@
 ### Backend Develoment 🗄️🔙
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=socket.io)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ### Mobile Develoment 🧑🏻‍💻📲
 - ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![Capacitor](https://img.shields.io/badge/-Capacitor-333333?style=flat&logo=capacitor)
+
 ### Databases 🛢️🗃️
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
 ### Testing 🧪💥
 - ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=c21325)
 ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
@@ -46,8 +55,9 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=2497ff)
 ### Tools 🔧🛠
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=400090)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Copilot](https://img.shields.io/badge/-Copilot-333333?style=flat&logo=copilot)
+![Antigravity](https://img.shields.io/badge/-Antigravity-333333?style=flat&logo=antigravity)
 
 ## 👀 Contact
 
